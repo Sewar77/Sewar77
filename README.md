@@ -187,14 +187,13 @@ Shipping Real Products    ██████████████████
 
 ---
 
-## 📊 GitHub activity
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sewar77&show_icons=true&hide_border=true&bg_color=00000000&title_color=60A5FA&text_color=94A3B8&icon_color=A78BFA" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sewar77&layout=compact&hide_border=true&bg_color=00000000&title_color=60A5FA&text_color=94A3B8" />
+  <img
+    src="https://streak-stats.demolab.com?user=Sewar77&theme=transparent&hide_border=true"
+    alt="Sewar's GitHub Streak"
+  />
 </p>
 
 ---
@@ -227,11 +226,11 @@ Teaching has made me care even more about writing code that another developer ca
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/sewar-jihad">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sewarjihad793@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
