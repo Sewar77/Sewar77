@@ -1,164 +1,254 @@
-# Hi, I'm Sewar 👋
+<!-- ===================== HEADER ===================== -->
 
-💻 **Full Stack Developer | React | Next.js | Node.js | TypeScript**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=220&section=header&text=Sewar%20Al-Shorman&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20real%20products%20for%20real%20people&descAlignY=57&descSize=17" width="100%" />
+</p>
 
-I'm a Full Stack Developer focused on building modern, scalable, and user-friendly web applications.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express+%7C+PostgreSQL;I+like+building+things+that+actually+get+used." alt="Typing SVG" />
+  </a>
+</p>
 
-I enjoy working across the full development lifecycle — from designing responsive interfaces and building reusable frontend components to developing secure APIs, designing databases, and deploying production applications.
-
-I'm continuously improving my skills in software engineering, system design, problem solving, and modern web technologies.
-
----
-
-## 🚀 About Me
-
-* 💻 Full Stack Developer
-* 👩‍🏫 Software Development Trainer
-* 🌱 Currently improving my skills in **React, Next.js, TypeScript, and Software Engineering**
-* 🧠 Interested in **clean architecture, scalable systems, and real-world business applications**
-* 🛠️ I enjoy turning business requirements into complete working systems
-* 🤝 Open to **Full Stack, Frontend, Backend, and Software Engineer opportunities**
-* 📍 Based in Jordan
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sewar77&label=Profile%20Views&style=flat-square" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👋 A little about me
 
-### Frontend
+I'm **Sewar**, a Full Stack Developer from Jordan.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge\&logo=mui\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+I like taking an idea from:
 
-### Backend
+`"we need a system for this"`
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+all the way to:
 
-### Databases
+`database → backend → frontend → deployment`
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+I care about clean interfaces, understandable code, good database design, and building software that solves an actual problem.
 
-### Tools & Development
+Right now, I'm especially focused on becoming stronger in **React, Next.js, TypeScript, backend architecture, problem solving, and system design**.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+```ts
+const sewar = {
+  role: "Full Stack Developer",
+  location: "Jordan 🇯🇴",
+
+  frontend: [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "JavaScript",
+    "Material UI",
+  ],
+
+  backend: [
+    "Node.js",
+    "Express.js",
+    "REST APIs",
+  ],
+
+  databases: [
+    "PostgreSQL",
+    "MongoDB",
+  ],
+
+  currentlyImproving: [
+    "System Design",
+    "Problem Solving",
+    "Software Architecture",
+  ],
+
+  goal: "Build software people actually want to use.",
+};
+```
 
 ---
 
-## 💡 What I Work With
+## ⚡ My stack
 
-I have experience building applications that include:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,nodejs,express,postgres,mongodb,git,github,postman,vscode&perline=7" />
+</p>
+
+---
+
+## 🚀 What I enjoy building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Frontend
+
+I enjoy building interfaces that are:
+
+* Responsive
+* Reusable
+* Accessible
+* Easy to navigate
+* Connected to real backend systems
+
+**Main tools**
+
+`React` `Next.js` `TypeScript` `MUI`
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Backend
+
+I enjoy working on:
+
+* REST APIs
+* Authentication
+* Authorization
+* Business logic
+* Validation
+* Security
+* Database architecture
+
+**Main tools**
+
+`Node.js` `Express` `PostgreSQL`
+
+</td>
+</tr>
+</table>
+
+---
+
+# ✦ Projects I'm proud of
+
+### 🎓 Training Center Management Platform
+
+A full-stack system built around the real operational needs of a training center.
+
+Instead of treating it as a simple CRUD application, I worked on workflows involving:
+
+`Students` → `Courses` → `Tracks` → `Classes` → `Schedules` → `Payments`
+
+Some of the engineering problems behind it include:
 
 * Authentication and authorization
-* JWT and cookie-based authentication
-* Role-based access control
-* RESTful APIs
-* PostgreSQL relational database design
-* MongoDB
-* Form validation
-* File and image uploads
-* Admin dashboards
-* Search, filtering, sorting, and pagination
-* Responsive user interfaces
-* Reusable React components
-* Database migrations and seeds
-* API testing with Postman
-* Security and validation
+* Role-based permissions
+* Class scheduling
+* Trainer and classroom management
+* Financial tracking
+* Search, filtering and sorting
+* Relational database design
+* Server-side validation
+* Administrative workflows
 * Production deployment
 
----
+**Built with**
 
-## 📌 Featured Projects
-
-### 🎓 Training Center Management System
-
-A full-stack management platform designed to manage training-center operations.
-
-**Features include:**
-
-* Students and trainers management
-* Courses and tracks
-* Classes and schedules
-* Authentication and authorization
-* Administrative dashboard
-* Financial management
-* Search and filtering
-* PostgreSQL database
-* Responsive UI
-
-**Technologies:**
 `Next.js` `TypeScript` `Node.js` `PostgreSQL`
 
----
+<br>
 
-### 📚 Book & Educational Content Platform
+### 📚 Bilingual Educational Platform
 
-A full-stack platform for managing and selling educational books and content.
+A full-stack platform for educational books and content with support for both **Arabic and English**.
 
-**Features include:**
+It includes:
 
 * Books and categories
-* Admin dashboard
-* Bilingual Arabic / English content
-* Authentication and authorization
-* Content management system
+* Content management
+* Administrative dashboard
 * Image uploads
+* Authentication
+* Role-based access
+* Structured page sections
 * REST APIs
-* PostgreSQL database
+* PostgreSQL
+* Responsive interfaces
 
-**Technologies:**
-`React` `Node.js` `Express.js` `PostgreSQL` `Material UI`
+**Built with**
 
----
-
-## 📈 GitHub Stats
-
-![Sewar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sewar77\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sewar77\&layout=compact\&hide_border=true)
+`React` `Material UI` `Node.js` `Express` `PostgreSQL`
 
 ---
 
-## 🎯 Currently Focused On
+## 🧩 Things I care about
 
-* Advanced React
-* Next.js
-* TypeScript
-* Problem Solving
-* Clean Code
-* Software Architecture
-* Backend Security
-* System Design
-* Building production-ready applications
-
----
-
-## 🤝 Let's Connect
-
-I'm open to opportunities in:
-
-* Full Stack Development
-* Frontend Development
-* React Development
-* Backend Development
-* Software Engineering
-
-You can connect with me through:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
-
-📧 **Email:** sewarjihad793@gmail.com
+```text
+Clean Code                ████████████████████
+Good UX                   ███████████████████░
+Database Design           ███████████████████░
+Backend Security          ██████████████████░░
+Learning                  ████████████████████
+Shipping Real Products    ████████████████████
+```
 
 ---
 
-> “Build things that solve real problems, not just projects that fill repositories.”
+## 📊 GitHub activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sewar77&show_icons=true&hide_border=true&bg_color=00000000&title_color=60A5FA&text_color=94A3B8&icon_color=A78BFA" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sewar77&layout=compact&hide_border=true&bg_color=00000000&title_color=60A5FA&text_color=94A3B8" />
+</p>
+
+---
+
+## 🧠 Currently sharpening
+
+<p align="center">
+
+`Advanced React`
+`Next.js`
+`TypeScript`
+`Problem Solving`
+`System Design`
+`Software Architecture`
+`Backend Security`
+
+</p>
+
+---
+
+## 💬 A bit beyond the code
+
+I also work as a **software development trainer**, which means I spend part of my time turning technical ideas into something other developers can understand.
+
+Teaching has made me care even more about writing code that another developer can open six months later and still understand.
+
+---
+
+## 🤝 Let's connect
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+  <b>Open to Full Stack, Frontend, Backend and Software Engineering opportunities.</b>
+</p>
+
+<br>
+
+<p align="center">
+  <i>"Still learning. Still building. Still shipping."</i>
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0f172a&height=120&section=footer" width="100%" />
+</p>
